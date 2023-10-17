@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MultitenanApp.Web.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fIa21LM5tk0W9kPOVm/42LWwujauUb/kYgKugDE4YBE=",
+  "Source": "MultitenanApp.Web.API",
+  "BasePath": "_content/MultitenanApp.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
