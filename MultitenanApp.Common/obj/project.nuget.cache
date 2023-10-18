@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5rExtaO/RPMw+oIpgEIjl46RwZPSyLgr6+QDbxCRehXiBHzNl0J1LdZ3JOSe8+1xj0u4AD2gxZthnunzjxzqA==",
+  "dgSpecHash": "SoP+4U0nAXpkHe7wnlXb1367DgKkx0JG3fxeP7z+MpLrXN8bOgOyzxXV7SR7qqsBOJkMeOAI4Pqrk5J9K+anrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Common\\MultitenanApp.Common.csproj",
+  "projectFilePath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/MultitenanApp.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

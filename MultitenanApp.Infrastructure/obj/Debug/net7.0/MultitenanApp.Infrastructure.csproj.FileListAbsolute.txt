@@ -1,0 +1,17 @@
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.AssemblyInfo.cs
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/bin/Debug/net7.0/MultitenanApp.Infrastructure.deps.json
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/bin/Debug/net7.0/MultitenanApp.Infrastructure.runtimeconfig.json
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/bin/Debug/net7.0/MultitenanApp.Infrastructure.dll
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/bin/Debug/net7.0/MultitenanApp.Infrastructure.pdb
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/bin/Debug/net7.0/MultitenanApp.Common.dll
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/bin/Debug/net7.0/MultitenanApp.Common.pdb
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.csproj.CopyComplete
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.dll
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/refint/MultitenanApp.Infrastructure.dll
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.pdb
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/MultitenanApp.Infrastructure.genruntimeconfig.cache
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/Debug/net7.0/ref/MultitenanApp.Infrastructure.dll
