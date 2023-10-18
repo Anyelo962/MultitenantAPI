@@ -1,0 +1,12 @@
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/bin/Debug/net7.0/MultitenanApp.Common.deps.json
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/bin/Debug/net7.0/MultitenanApp.Common.dll
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/bin/Debug/net7.0/MultitenanApp.Common.pdb
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/MultitenanApp.Common.csproj.AssemblyReference.cache
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/MultitenanApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/MultitenanApp.Common.AssemblyInfoInputs.cache
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/MultitenanApp.Common.AssemblyInfo.cs
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/MultitenanApp.Common.csproj.CoreCompileInputs.cache
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/MultitenanApp.Common.dll
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/refint/MultitenanApp.Common.dll
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/MultitenanApp.Common.pdb
+/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/Debug/net7.0/ref/MultitenanApp.Common.dll

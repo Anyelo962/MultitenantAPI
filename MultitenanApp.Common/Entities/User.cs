@@ -6,6 +6,8 @@ public class User: BaseEntity
     public string LastName { get; set; }
     public bool isActive { get; set; }
     
+    public int IdUser { get; set; }
+    public Organization Organization { get; set; }
     public DateTime creationDate { get; set; }
     public DateTime ModifiedBy { get; set; }
     
