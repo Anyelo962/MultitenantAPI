@@ -18,7 +18,6 @@ public class MultitencyDbContext: DbContext
         {
             var type = entity.ClrType;
             
-        //  0if(typeof(I))
         }
     }
 
