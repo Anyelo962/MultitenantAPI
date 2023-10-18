@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MultitenanApp.Common.interfaces;
 using MultitenanApp.Infrastructure.DbContext;
+using MultitenanApp.Infrastructure.TenancyConfig;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<ITenancyProvider, TenancyProviderConfig>();
 
 builder.Services.AddDbContext<MultitencyDbContext>((serviceProvider, dbContextOptionsBuilder) =>
 {

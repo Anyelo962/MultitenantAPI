@@ -1,27 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Application/MultitenanApp.Application.csproj": {}
+    "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Application\\MultitenanApp.Application.csproj": {}
   },
   "projects": {
-    "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Application/MultitenanApp.Application.csproj": {
+    "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Application\\MultitenanApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Application/MultitenanApp.Application.csproj",
+        "projectUniqueName": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Application\\MultitenanApp.Application.csproj",
         "projectName": "MultitenanApp.Application",
-        "projectPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Application/MultitenanApp.Application.csproj",
-        "packagesPath": "/Users/anyelovinzen/.nuget/packages/",
-        "outputPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Application/obj/",
+        "projectPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Application\\MultitenanApp.Application.csproj",
+        "packagesPath": "C:\\Users\\anyelo.giron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/anyelovinzen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\anyelo.giron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "\\\\srvvapfs01\\apps$\\Nuget Repository": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {}
         },
         "frameworks": {
           "net7.0": {
@@ -54,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

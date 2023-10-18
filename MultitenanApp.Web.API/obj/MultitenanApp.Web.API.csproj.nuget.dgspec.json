@@ -1,27 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Web.API/MultitenanApp.Web.API.csproj": {}
+    "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Web.API\\MultitenanApp.Web.API.csproj": {}
   },
   "projects": {
-    "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/MultitenanApp.Common.csproj": {
+    "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Common\\MultitenanApp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/MultitenanApp.Common.csproj",
+        "projectUniqueName": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Common\\MultitenanApp.Common.csproj",
         "projectName": "MultitenanApp.Common",
-        "projectPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/MultitenanApp.Common.csproj",
-        "packagesPath": "/Users/anyelovinzen/.nuget/packages/",
-        "outputPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/obj/",
+        "projectPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Common\\MultitenanApp.Common.csproj",
+        "packagesPath": "C:\\Users\\anyelo.giron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/anyelovinzen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\anyelo.giron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "\\\\srvvapfs01\\apps$\\Nuget Repository": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {}
         },
         "frameworks": {
           "net7.0": {
@@ -54,35 +62,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/MultitenanApp.Infrastructure.csproj": {
+    "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Infrastructure\\MultitenanApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/MultitenanApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Infrastructure\\MultitenanApp.Infrastructure.csproj",
         "projectName": "MultitenanApp.Infrastructure",
-        "projectPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/MultitenanApp.Infrastructure.csproj",
-        "packagesPath": "/Users/anyelovinzen/.nuget/packages/",
-        "outputPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Infrastructure\\MultitenanApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\anyelo.giron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/anyelovinzen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\anyelo.giron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "\\\\srvvapfs01\\apps$\\Nuget Repository": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/MultitenanApp.Common.csproj": {
-                "projectPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Common/MultitenanApp.Common.csproj"
+              "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Common\\MultitenanApp.Common.csproj": {
+                "projectPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Common\\MultitenanApp.Common.csproj"
               }
             }
           }
@@ -97,15 +113,21 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
-              "version": "[2.2.2, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
@@ -136,36 +158,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Web.API/MultitenanApp.Web.API.csproj": {
+    "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Web.API\\MultitenanApp.Web.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Web.API/MultitenanApp.Web.API.csproj",
+        "projectUniqueName": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Web.API\\MultitenanApp.Web.API.csproj",
         "projectName": "MultitenanApp.Web.API",
-        "projectPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Web.API/MultitenanApp.Web.API.csproj",
-        "packagesPath": "/Users/anyelovinzen/.nuget/packages/",
-        "outputPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Web.API/obj/",
+        "projectPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Web.API\\MultitenanApp.Web.API.csproj",
+        "packagesPath": "C:\\Users\\anyelo.giron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Web.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/anyelovinzen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\anyelo.giron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "\\\\srvvapfs01\\apps$\\Nuget Repository": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/MultitenanApp.Infrastructure.csproj": {
-                "projectPath": "/Users/anyelovinzen/RiderProjects/MultitenantAPI/MultitenanApp.Infrastructure/MultitenanApp.Infrastructure.csproj"
+              "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Infrastructure\\MultitenanApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\anyelo.giron\\RiderProjects\\MultitenanApp.Web.API\\MultitenanApp.Infrastructure\\MultitenanApp.Infrastructure.csproj"
               }
             }
           }
@@ -185,6 +214,12 @@
               "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.12, )"
             },
@@ -212,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
