@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MultitenanApp.Common.interfaces;
-using MultitenanApp.Infrastructure.DbContext;
-using MultitenanApp.Infrastructure.TenancyConfig;
+using MultitenanApp.Infrastructure.ContextDb;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,23 +11,34 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<ITenancyProvider, TenancyProviderConfig>();
+//builder.Services.AddScoped<ITenancyProvider, TenantServiceConfig>();
 
-builder.Services.AddDbContext<MultitencyDbContext>((serviceProvider, dbContextOptionsBuilder) =>
+builder.Services.AddScoped<ITenantService, ITenantService>();
+builder.Services.AddDbContextFactory<TestDbContext>(options => {}, ServiceLifetime.Scoped);
+
+builder.Services.AddDbContext<TestDbContext>(options =>
 {
-    var tenantProvider = serviceProvider.GetRequiredService<ITenancyProvider>();
-    var tenant = tenantProvider.GetCurrentTenancy();
-    
-    if (tenant != null)
-    {
-        dbContextOptionsBuilder.UseSqlServer(tenant.name);
-    }
-    else
-    {
-        dbContextOptionsBuilder.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-    }
-    
+    options.UseSqlServer(builder.Configuration.GetConnectionString("OrganizationUserDB"));
 });
+
+
+
+
+// builder.Services.AddDbContext<OrganizationDbContext>((serviceProvider, dbContextOptionsBuilder) =>
+// {
+//     var tenantProvider = serviceProvider.GetRequiredService<ITenancyProvider>();
+//     var tenant = tenantProvider.GetCurrentTenancy();
+//     
+//     if (tenant != null)
+//     {
+//         dbContextOptionsBuilder.UseSqlServer(tenant.name);
+//     }
+//     else
+//     {
+//         dbContextOptionsBuilder.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+//     }
+//     
+// });
 
 var app = builder.Build();
 
